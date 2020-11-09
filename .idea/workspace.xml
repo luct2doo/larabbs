@@ -117,6 +117,7 @@
       <path value="$PROJECT_DIR$/vendor/psr/http-message" />
       <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
       <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1k24c4Xo4RlbTrvN6lgGpX7sNys" />
@@ -145,11 +146,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604885428236</updated>
-      <workItem from="1604885429659" duration="329000" />
+      <workItem from="1604885429659" duration="2349000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1606" y="711" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604887736999">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1606" y="711" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1604887736999" />
   </component>
 </project>
